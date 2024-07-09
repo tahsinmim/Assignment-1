@@ -1,0 +1,78 @@
+.first-section-container{
+ background-image: url(../assets/Hero-bg.png) ;
+
+height: 500px;
+margin-left: 10px;
+margin-top: 40px;
+margin-bottom: 20px;
+padding-top: 30px;
+padding-top: 10px;
+justify-content: center;
+text-align: center;
+
+
+}
+
+
+
+.writing{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 30px;
+
+margin-bottom: 0px;
+}
+.letter{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+.btn{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+text-decoration: none;
+font-weight: 600;
+text-align: center;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+}
+.social-icons{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+justify-content: space-around;
+margin-right: 20px;
+margin-top: 20px;
+}
+.footer-container{
+    height: 300px;
+    width: 1455px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+    display: flex;
+    justify-content: space-between;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.header-container{ 
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+    border-radius: 16px;
+  
+ 
+    
+}
+.footer-content{
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+}
